@@ -1,1 +1,2 @@
 # Fruit-and-Veggie-Classification
+In this problem, we will use a dataset of fruits and vegetables to accurately classify the produce in the image. We will explore using Convolutional Neural Networks to optimize feature selection jointly with learning a classification policy. Our input data will in the form of a down sampled RGB image with the fruit centered in it. Each data point will have a corresponding class label, which corresponds to their matching produce.
